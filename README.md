@@ -1,6 +1,8 @@
 # jointModel
 Joint models (modelling) for Longitudinal and Survival Data Use jointModel With (In) R Software
 
+https://www.youtube.com/watch?v=RwY9z_wY_VU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
